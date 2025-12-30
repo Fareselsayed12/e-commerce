@@ -1,0 +1,1 @@
+import{Bb as a,Ta as o,kb as t,lb as p}from"./chunk-4MBWPL2H.js";import"./chunk-2NFLSA4Y.js";var s=class n{static \u0275fac=function(e){return new(e||n)};static \u0275cmp=o({type:n,selectors:[["app-notfound"]],decls:2,vars:0,template:function(e,i){e&1&&(t(0,"p"),a(1,"notfound works!"),p())},encapsulation:2})};export{s as NotfoundComponent};
